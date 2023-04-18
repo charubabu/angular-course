@@ -1,0 +1,10 @@
+.vas{
+    padding: 20px;
+    color: rgb(163, 47, 47);
+
+}
+.vas:hover{
+    background-color: rgb(183, 86, 86);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
