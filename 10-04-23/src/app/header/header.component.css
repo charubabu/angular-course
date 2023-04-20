@@ -3,6 +3,7 @@
     padding: 0;
     color: #fff;
 }
+
 .img
 {
     display: flex;
@@ -11,6 +12,8 @@
     padding: 1rem 2rem;
     align-items: center;
 }
+ng serve
+
 .icon-image
 {
   width: 25px;
