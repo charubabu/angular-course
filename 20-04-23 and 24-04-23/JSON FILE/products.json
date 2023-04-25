@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jaquar",
+      "price": 1000,
+      "type": "perfume",
+      "image": "perfume.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "zudio perfume",
+        "price": 4500,
+        "type": "perfume",
+        "image": "perfume2.jpg"
+  
+      },{
+        "id": 3,
+        "name": "toy",
+        "price": 200,
+        "type": "toy",
+        "image": "toys].jpg"
+  
+      },{
+        "id": 4,
+        "name": "Alarm clock",
+        "price": 1700,
+        "type": "clock",
+        "image": "clock.jpg"
+  
+      },{
+        "id": 5,
+        "name": "Cube",
+        "price": 2000,
+        "type": "games",
+        "image": "cube.jpg"
+  
+      }
+  ]
+}

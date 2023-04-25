@@ -1,0 +1,19 @@
+.nv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    font-weight: italic;
+}
+.nv>*{
+    font-family:cursive;
+    font-size: 2rem;
+}
+.crd{
+    padding: 0rem 1rem;
+}
+#comp{
+    text-decoration: none;
+    color: black;
+    
+}
