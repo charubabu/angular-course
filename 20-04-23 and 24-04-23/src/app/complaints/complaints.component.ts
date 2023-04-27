@@ -21,48 +21,20 @@ export class ComplaintsComponent {
 
   pproducts: Prod[] = [
     {      
-      "name": "Casio AE-1200",
-      "flag": "http://localhost/casio.jpg"
+      "name": "Jaquar",
+      "flag": "http://localhost/perfume.jpg"
     },
     {      
-      "name": "Apple Airpods Pro, 2nd Generation",
-      "flag": "http://localhost/airpods.jpg"
+      "name": "teddy",
+      "flag": "http://localhost/toys].jpg"
     },
     {      
-      "name": "Seeraga Samba Organic Rice",
-      "flag": "http://localhost/rice.jpg"
+      "name": "cube",
+      "flag": "http://localhost/cube.jpg"
     },
     {      
-      "name": "ATTACK ON TITAN",
-      "flag": "http://localhost/aot-1.jpg"
-    },
-    {      
-      "name": "Boat Airdopes 441",
-      "flag": "http://localhost/boatairpods.jpg"
-    },
-    {      
-      "name": "Nutriwish Steel Cut Oats (200G)",
-      "flag": "http://localhost/oats.jpg"
-    },
-    {      
-      "name": "Armani Exchange Men Watch",
-      "flag": "http://localhost/ax.jpg"
-    },
-    {      
-      "name": "Naruto V01 V01 Viz",
-      "flag": "http://localhost/naruto.jpg"
-    },
-    {      
-      "name": "Jaguar Classic Blue & Green Deodorant",
-      "flag": "http://localhost/jaguar.jpg"
-    },
-    {
-      "name": "Asus Zenbook 14X 2022",
-      "flag": "http://localhost/lap.jpg"
-    },
-    {
-      "name": "Face Serum with Mandarin",
-      "flag": "http://localhost/face.jpg"
+      "name": "clock",
+      "flag": "http://localhost/clock.jpg"
     }
   ];
   // 

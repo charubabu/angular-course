@@ -4,8 +4,9 @@
     width: 100%;
   } */
   .example-form mat-form-field{
-    width: 60%;
+    width: 40%;
     margin: auto;
+    text-align: right;
   }
   .example-full-width {
     width: 100%;
@@ -19,6 +20,17 @@
   [dir='rtl'] .example-option-img {
     margin-right: 0;
     margin-left: 8px;
+  }
+
+  .post{
+    text-align : center;
+    font-size : 30px;
+  }
+
+  .button{
+    padding : 5px 10px;
+    
+
   }
 
   
